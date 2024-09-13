@@ -1,0 +1,21 @@
+a {
+    font-size:2rem;
+    color:black;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(94, 94, 94);
+    font-weight: bold;
+}
+
+#mypage {
+    a{
+        float:right;
+    }
+}
+
+input {
+    position: relative;
+    bottom: 7px
+}
