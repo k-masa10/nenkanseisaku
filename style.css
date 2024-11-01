@@ -9,13 +9,16 @@ a:hover {
     font-weight: bold;
 }
 
-/* #mypage {
-    a{
-        float:right;
-    } */
-/* } */
+.mypage {
+    float: right
+}
 
 input {
     position: relative;
     bottom: 7px
+}
+
+img {
+    width: 24.6%;
+    vertical-align: top
 }
